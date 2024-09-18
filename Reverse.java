@@ -33,8 +33,6 @@ public class Reverse{
 
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
-        
-        // Example stack: [1, 2, 3, 4, 5]
         stack.push(1);
         stack.push(2);
         stack.push(3);
